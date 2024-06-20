@@ -10,7 +10,7 @@ Este repositorio contiene un proyecto personal donde he replicado la página pri
 
 ## Visualizacion
 
-1. Puedes ver la pagina gracias a GitHub Pages en el siguiente enlace: `https://kharlz01.github.io/DiscordPage/`
+1. Puedes ver la pagina gracias a GitHub Pages en el siguiente [enlace](https://kharlz01.github.io/DiscordPage/ "enlace").
 
 ## Tecnologías Utilizadas
 
