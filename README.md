@@ -8,6 +8,10 @@ Este repositorio contiene un proyecto personal donde he replicado la página pri
 2. Abre el archivo `index.html` en tu navegador web preferido.
 3. ¡Explora la réplica de la página principal de Discord y observa cómo se utilizó Tailwind CSS para estilizar los elementos!
 
+## Visualizacion
+
+1. Puedes ver la pagina gracias a GitHub Pages en el siguiente enlace: `https://kharlz01.github.io/DiscordPage/`
+
 ## Tecnologías Utilizadas
 
 - HTML
